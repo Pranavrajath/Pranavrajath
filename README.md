@@ -1,5 +1,5 @@
 # 💫 About Me:
-Info Science Graduate @ SJCIT |<br>
+Info Science Graduate from SJCIT |<br>
 Currently learning **Java Full Stack Development at QSpiders** |<br>
 Skilled in Java, React, Css, Web Development, Node.js and Express.js .<br>
 Interested in Web Technologies .
